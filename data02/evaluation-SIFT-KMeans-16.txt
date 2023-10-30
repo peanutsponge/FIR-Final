@@ -1,4 +1,0 @@
-SIFT KMeans 16 distance_manhattan 0.013995280734804834
-SIFT KMeans 16 distance_chebychev 0.02053480979765362
-SIFT KMeans 16 distance_cosine 0.01016978526349348
-SIFT KMeans 16 distance_euclidean 0.07580429090613391

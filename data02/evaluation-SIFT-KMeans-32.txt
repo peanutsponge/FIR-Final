@@ -1,4 +1,0 @@
-SIFT KMeans 32 distance_manhattan 0.013936640010975216
-SIFT KMeans 32 distance_chebychev 0.023225531214740996
-SIFT KMeans 32 distance_cosine 0.01051116594566074
-SIFT KMeans 32 distance_euclidean 0.0734960633454223
