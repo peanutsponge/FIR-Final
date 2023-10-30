@@ -1,0 +1,8 @@
+ORB KMeans 32 distance_manhattan 0.016333745116269595
+ORB KMeans 32 distance_chebychev 0.03303630919136212
+ORB KMeans 32 distance_cosine 0.012177552861531491
+ORB KMeans 32 distance_euclidean 0.03736473101528232
+ORB KMeans 32 distance_manhattan 0.016333745116269595
+ORB KMeans 32 distance_chebychev 0.03303630919136212
+ORB KMeans 32 distance_cosine 0.012177552861531491
+ORB KMeans 32 distance_euclidean 0.03736473101528232
