@@ -1,37 +1,12 @@
-None
-0.013505372545670866
-
-None
-0.02534497314799634
-
-None
-0.016745534845684962
-
-None
-0.05017013934004066
-
-None
 distance_manhattan: 0.013505372545670866
 
-None
+
 distance_chebychev: 0.02534497314799634
 
-None
+
 distance_cosine: 0.016745534845684962
 
-None
-distance_euclidean: 0.05017013934004066
 
-None
-distance_manhattan: 0.013505372545670866
-
-None
-distance_chebychev: 0.02534497314799634
-
-None
-distance_cosine: 0.016745534845684962
-
-None
 distance_euclidean: 0.05017013934004066
 
 
@@ -45,4 +20,28 @@ distance_cosine: 0.016745534845684962
 
 
 distance_euclidean: 0.05017013934004066
+
+
+distance_manhattan: 0.013505372545670873 +- 0.0015921108289583565 (95% confidence)
+
+
+distance_chebychev: 0.025344973147996327 +- 0.004031560854684033 (95% confidence)
+
+
+distance_cosine: 0.01674553484568497 +- 0.0048347416792200925 (95% confidence)
+
+
+distance_euclidean: 0.05017013934004066 +- 0.010437143732160961 (95% confidence)
+
+
+distance_manhattan: 0.013505372545670873 +- 0.0015921108289583565 (95% confidence)
+
+
+distance_chebychev: 0.025344973147996327 +- 0.004031560854684033 (95% confidence)
+
+
+distance_cosine: 0.01674553484568497 +- 0.0048347416792200925 (95% confidence)
+
+
+distance_euclidean: 0.05017013934004066 +- 0.010437143732160961 (95% confidence)
 
